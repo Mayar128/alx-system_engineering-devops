@@ -1,0 +1,2 @@
+#!/bin/bash
+tac </tmp/0x02$> /tmp/0x02$
